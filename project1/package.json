@@ -1,0 +1,25 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "prop-types": "^15.6.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "expo-asset": "~8.2.1",
+    "expo-haptics": "~8.4.0",
+    "expo-constants": "~9.3.1",
+    "expo-file-system": "~9.3.0",
+    "expo-permissions": "~10.0.0",
+    "react-navigation": "^3.0.9",
+    "react-native-paper": "3.6.0",
+    "expo-linear-gradient": "~8.4.0",
+    "@react-navigation/core": "3.0.0",
+    "react-native-ui-kitten": "^3.0.1",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-unimodules": "~0.5.2",
+    "@react-navigation/native": "~3.6.2",
+    "react-native-gesture-handler": "~1.8.0",
+    "react-native-gradient-buttons": "^2.0.1"
+  }
+}
